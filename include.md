@@ -24,17 +24,9 @@ Code description:
 * geom_jitter added if required.
 
 ### How to run
-* Create an app directory in the current working directory.
-* Copy server.R, ui.R and include.md into the app directory. Those files can be found at the Github link.
+* Create an App directory in the current working directory.
+* Copy server.R, ui.R and include.md into the App directory. Those files can be found at the Github link.
+* Move into the App directory.
 * If Shiny isn't installed, install it running "install.packages("shiny")".
 * Load the Shiny library with "library(shiny)".
 * Launch the app by running "runApp()".
-
-
-   
-
-
-
-
-
-
